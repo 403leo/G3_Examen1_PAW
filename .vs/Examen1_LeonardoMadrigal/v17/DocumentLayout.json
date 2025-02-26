@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|c:\\users\\leona\\onedrive\\documents\\setimo cuatrimestre fidelitas u\\programacion avanzada en web\\proyecto\\examen1_leonardomadrigal\\examen1_leonardomadrigal\\models\\examen1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\examen1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|c:\\users\\leona\\onedrive\\documents\\setimo cuatrimestre fidelitas u\\programacion avanzada en web\\proyecto\\examen1_leonardomadrigal\\examen1_leonardomadrigal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|c:\\users\\leona\\onedrive\\documents\\setimo cuatrimestre fidelitas u\\programacion avanzada en web\\proyecto\\examen1_leonardomadrigal\\examen1_leonardomadrigal\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|c:\\users\\leona\\onedrive\\documents\\setimo cuatrimestre fidelitas u\\programacion avanzada en web\\proyecto\\examen1_leonardomadrigal\\examen1_leonardomadrigal\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|c:\\users\\leona\\onedrive\\documents\\setimo cuatrimestre fidelitas u\\programacion avanzada en web\\proyecto\\examen1_leonardomadrigal\\examen1_leonardomadrigal\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|c:\\users\\leona\\onedrive\\documents\\setimo cuatrimestre fidelitas u\\programacion avanzada en web\\proyecto\\examen1_leonardomadrigal\\examen1_leonardomadrigal\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|c:\\users\\leona\\onedrive\\documents\\setimo cuatrimestre fidelitas u\\programacion avanzada en web\\proyecto\\examen1_leonardomadrigal\\examen1_leonardomadrigal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1829,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 67,
           "Children": [
             {
               "$type": "Bookmark",
@@ -258,6 +287,91 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Program.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Program.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Program.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:18:11.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:14:41.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:50:50.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ruta.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:50:43.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:35:44.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Examen1Context.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Examen1Context.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\Examen1Context.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Examen1Context.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\Examen1Context.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:12:55.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Models\\Usuario.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:50:01.942Z"
             }
           ]
         },
