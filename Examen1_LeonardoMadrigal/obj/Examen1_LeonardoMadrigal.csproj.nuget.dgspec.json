@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {}
+    "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {
+    "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
+        "projectUniqueName": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
         "projectName": "Examen1_LeonardoMadrigal",
-        "projectPath": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
+        "projectPath": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\OneDrive\\Documents\\Setimo Cuatrimestre Fidelitas U\\Programacion Avanzada en Web\\Proyecto\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal\\obj\\",
+        "outputPath": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,6 +61,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
