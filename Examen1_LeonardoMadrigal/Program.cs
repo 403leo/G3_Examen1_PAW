@@ -8,7 +8,8 @@ builder.Services.AddControllersWithViews();
 // Colocar el context que esta en la carpeta models
 builder.Services.AddDbContext<Examen1Context>(op =>
 {
-    op.UseSqlServer(builder.Configuration.GetConnectionString("Examen1"));
+    op.UseSqlServer(builder.Configuration.GetConnectionString("Examen1")).LogTo(Console.WriteLine, LogLevel.Information)
+      .EnableSensitiveDataLogging();
 
 });
 

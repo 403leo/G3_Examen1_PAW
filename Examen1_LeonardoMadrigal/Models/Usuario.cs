@@ -10,10 +10,12 @@
         public string Password { get; set; }
         public string Rol { get; set; }
 
+
+
         // Relaciones con las tablas
-        public IEnumerable<Ruta> Rutas { get; set; }
-        public IEnumerable<Vehiculo> Vehiculos { get; set; }
-        public IEnumerable<Boleto> Boletos { get; set; }
+        public IEnumerable<Ruta>? Rutas { get; set; }
+        public IEnumerable<Vehiculo>? Vehiculos { get; set; }
+        public IEnumerable<Boleto>? Boletos { get; set; }
 
     }
 }
