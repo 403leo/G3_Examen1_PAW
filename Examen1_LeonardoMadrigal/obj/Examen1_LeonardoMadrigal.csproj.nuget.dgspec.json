@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {}
+    "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {}
   },
   "projects": {
-    "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {
+    "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
+        "projectUniqueName": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
         "projectName": "Examen1_LeonardoMadrigal",
-        "projectPath": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
-        "packagesPath": "C:\\Users\\estiv\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\obj\\",
+        "projectPath": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\estiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

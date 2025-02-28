@@ -152,5 +152,28 @@ namespace Examen1_LeonardoMadrigal.Controllers
         {
             return _context.Usuarios.Any(e => e.Id == id);
         }
+        // Metodo para mostrar la vista de administradores
+        public async Task<IActionResult> VistaRolAdministrador()
+        {
+            // Se filtran por administradores
+            //var administradores = _context.Usuarios.Where(u => u.Rol == "Administrador").ToList();
+            return View(await _context.Usuarios.ToListAsync());
+        }
+
+        // Metodo para mostrar la vista de conductores
+        public IActionResult VistaRolConductor()
+        {
+            // Se filtran por administradores
+            var conductores = _context.Usuarios.Where(u => u.Rol == "Conductor").ToList();
+            return View(conductores);
+        }
+
+        // Metodo para mostrar la vista de usuarios
+        public IActionResult VistaRolUsuarios()
+        {
+            // Se filtran por administradores
+            var usuarios = _context.Usuarios.Where(u => u.Rol == "Usuario").ToList();
+            return View(usuarios);
+        }
     }
 }
