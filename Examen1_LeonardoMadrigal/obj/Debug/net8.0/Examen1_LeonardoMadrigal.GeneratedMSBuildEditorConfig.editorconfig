@@ -34,6 +34,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Ruta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Ruta/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Ruta/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Ruta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Ruta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -72,6 +92,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Usuario/VistaRolUsuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xWaXN0YVJvbFVzdWFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Vehiculo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Vehiculo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Vehiculo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Vehiculo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/Vehiculo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Codigos PAW/G3_Examen1_PAW/Examen1_LeonardoMadrigal/Views/_ViewImports.cshtml]

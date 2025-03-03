@@ -14,7 +14,7 @@
         // Referencia a la tabla de usuario
         public Usuario? Usuario { get; set; }
 
-        public IEnumerable<Boleto> Boletos { get; set; }
+        public IEnumerable<Boleto>? Boletos { get; set; }
 
     }
 }
