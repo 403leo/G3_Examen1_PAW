@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -159,12 +159,14 @@ namespace Examen1_LeonardoMadrigal.Controllers
             var vehiculos = await _context.Vehiculos.Include(v => v.Usuario).ToListAsync();
             var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
             var usuarios = await _context.Usuarios.ToListAsync();
+            var boletos = await _context.Boletos.Include(b => b.Usuario).Include(b => b.Ruta).ToListAsync(); // 👈 Se agregan los boletos
 
             var viewModel = new ObjetosViewModel
             {
                 Vehiculos = vehiculos,
                 Rutas = rutas,
-                Usuarios = usuarios
+                Usuarios = usuarios,
+                Boleto = boletos
             };
 
             return View(viewModel);
@@ -175,11 +177,13 @@ namespace Examen1_LeonardoMadrigal.Controllers
         {
             var vehiculos = await _context.Vehiculos.Include(v => v.Usuario).ToListAsync();
             var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
+            var boletos = await _context.Boletos.Include(b => b.Usuario).Include(b => b.Ruta).ToListAsync(); // 👈 Se agregan los boletos
 
             var viewModel = new VehiculosRutasViewModel
             {
                 Vehiculos = vehiculos,
-                Rutas = rutas
+                Rutas = rutas,
+                Boletos = boletos
             };
 
             return View(viewModel);
@@ -191,7 +195,8 @@ namespace Examen1_LeonardoMadrigal.Controllers
         {
             // Se filtran por administradores
             var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
-            return View(rutas); 
+            return View(rutas);
+          
         }
     }
 }

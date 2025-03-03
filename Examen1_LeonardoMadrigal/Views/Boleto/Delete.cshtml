@@ -1,0 +1,43 @@
+﻿@model Examen1_LeonardoMadrigal.Models.Boleto
+
+@{
+    ViewData["Title"] = "Eliminar Boleto";
+}
+
+<h2>Eliminar Boleto</h2>
+
+<p>¿Estás seguro de que quieres eliminar este boleto?</p>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Usuario</th>
+        <td>@Model.Usuario.Nombre</td>
+    </tr>
+    <tr>
+        <th>Ruta</th>
+        <td>@Model.Ruta.Nombre</td>
+    </tr>
+    <tr>
+        <th>Vehículo</th>
+        <td>@Model.Vehiculo.Placa</td>
+    </tr>
+    <tr>
+        <th>Cantidad</th>
+        <td>@Model.Cantidad</td>
+    </tr>
+    <tr>
+        <th>Fecha de Compra</th>
+        <td>@Model.FechaCompra.ToShortDateString()</td>
+    </tr>
+</table>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
