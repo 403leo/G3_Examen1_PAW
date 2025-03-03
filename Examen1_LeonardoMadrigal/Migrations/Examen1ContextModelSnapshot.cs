@@ -53,7 +53,7 @@ namespace Examen1_LeonardoMadrigal.Migrations
 
                     b.HasIndex("VehiculoId");
 
-                    b.ToTable("Boletos");
+                    b.ToTable("Boletos", (string)null);
                 });
 
             modelBuilder.Entity("Examen1_LeonardoMadrigal.Models.Ruta", b =>
@@ -94,7 +94,7 @@ namespace Examen1_LeonardoMadrigal.Migrations
 
                     b.HasIndex("UsuarioId");
 
-                    b.ToTable("Rutas");
+                    b.ToTable("Rutas", (string)null);
                 });
 
             modelBuilder.Entity("Examen1_LeonardoMadrigal.Models.Usuario", b =>
@@ -135,7 +135,7 @@ namespace Examen1_LeonardoMadrigal.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Usuarios");
+                    b.ToTable("Usuarios", (string)null);
                 });
 
             modelBuilder.Entity("Examen1_LeonardoMadrigal.Models.Vehiculo", b =>
@@ -174,7 +174,7 @@ namespace Examen1_LeonardoMadrigal.Migrations
 
                     b.HasIndex("UsuarioId");
 
-                    b.ToTable("Vehiculos");
+                    b.ToTable("Vehiculos", (string)null);
                 });
 
             modelBuilder.Entity("Examen1_LeonardoMadrigal.Models.Boleto", b =>

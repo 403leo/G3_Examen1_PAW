@@ -1,30 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Codigos PAW\\G3_Examen1_PAW\\",
+  "WorkspaceRootPath": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\vehiculo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\vehiculo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\usuario\\vistaroladministrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\usuario\\vistaroladministrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\usuario\\vistaroladministrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\models\\usuarioboletosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\usuarioboletosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\models\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B266315D-6C42-4E79-ACAB-B627D1674802}|API\\API.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B266315D-6C42-4E79-ACAB-B627D1674802}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|f:\\c# universidad\\2025\\sem07\\g3_examen1_paw\\examen1_leonardomadrigal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +62,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -50,7 +74,43 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
               "$type": "Bookmark",
@@ -230,19 +290,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -258,113 +306,158 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Title": "VistaRolAdministrador.cshtml",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T04:29:14.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RutaController.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwD4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T04:28:23.395Z",
+              "WhenOpened": "2025-03-03T10:48:33.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VehiculoController.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDoAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T04:28:19.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T04:24:15.106Z",
+              "WhenOpened": "2025-03-03T10:48:11.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T04:15:07.059Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv00AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T10:27:22.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "VistaRolAdministrador.cshtml",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T04:14:41.441Z",
-              "EditorCaption": ""
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\Boleto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:25:18.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\DashboardController.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:24:09.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioBoletosViewModel.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\UsuarioBoletosViewModel.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\UsuarioBoletosViewModel.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\UsuarioBoletosViewModel.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\UsuarioBoletosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:23:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\DashboardViewModel.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:21:32.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\appsettings.json",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\appsettings.json",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\appsettings.json",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T09:24:53.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RutaController.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:22:12.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ruta.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Models\\Ruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:15:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:08:58.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Program.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Program.cs",
+              "ToolTip": "F:\\C# Universidad\\2025\\Sem07\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Program.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:04:46.02Z"
             }
           ]
         },
@@ -372,6 +465,14 @@
           "DockedWidth": 153,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
@@ -394,15 +495,21 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
