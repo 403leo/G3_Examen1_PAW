@@ -1,0 +1,18 @@
+﻿@model Examen1_LeonardoMadrigal.Models.Boleto
+
+@{
+    ViewData["Title"] = "Detalles del Boleto";
+}
+
+<h2>Detalles del Boleto</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Boleto #@Model.Id</h5>
+        <p class="card-text"><strong>Usuario:</strong> @Model.Usuario.Nombre</p>
+        <p class="card-text"><strong>Ruta:</strong> @Model.Ruta.Nombre</p>
+        <p class="card-text"><strong>Cantidad:</strong> @Model.Cantidad</p>
+        <p class="card-text"><strong>Fecha de Compra:</strong> @Model.FechaCompra</p>
+        <a asp-action="" class="btn btn-secondary">Volver</a>
+    </div>
+</div>

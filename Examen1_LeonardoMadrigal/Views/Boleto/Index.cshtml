@@ -1,0 +1,47 @@
+﻿@model List<Examen1_LeonardoMadrigal.Models.Boleto>
+
+@{
+    ViewData["Title"] = "Boletos Comprados";
+}
+
+<h2 class="mb-4">Boletos Comprados</h2>
+<!-- Botón para ir a VistaRolAdministrador -->
+<a asp-controller="Usuario" asp-action="VistaRolAdministrador" class="btn btn-secondary mb-3">
+    Ir a Panel de Administrador
+</a>
+
+<table class="table table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Usuario</th>
+            <th>Ruta</th>
+            <th>Vehículo</th>
+            <th>Cantidad</th>
+            <th>Fecha</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var boleto in Model)
+        {
+            <tr>
+                <td>@boleto.Id</td>
+                <td>@boleto.Usuario.Nombre</td>
+                <td>@boleto.Ruta.Nombre</td>
+                <td>@boleto.Vehiculo.Placa</td>
+                <td>@boleto.Cantidad</td>
+                <td>@boleto.FechaCompra.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@boleto.Id" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@boleto.Id" class="btn btn-danger btn-sm"
+                       onclick="return confirm('¿Seguro que deseas eliminar este boleto?');">
+                        Eliminar
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Comprar Boleto</a>

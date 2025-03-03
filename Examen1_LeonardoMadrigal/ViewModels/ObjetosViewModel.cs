@@ -7,7 +7,7 @@ namespace Examen1_LeonardoMadrigal.ViewModels
         public IEnumerable<Vehiculo> Vehiculos { get; set; }
         public IEnumerable<Ruta> Rutas { get; set; }
         public IEnumerable<Usuario> Usuarios { get; set; }
-        //public IEnumerable<Boleto> Boleto { get; set; }
+        public IEnumerable<Boleto> Boleto { get; set; }
 
 
     }
