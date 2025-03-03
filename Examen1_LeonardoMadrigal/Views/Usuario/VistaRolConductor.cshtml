@@ -1,4 +1,5 @@
-﻿@model IEnumerable<Examen1_LeonardoMadrigal.Models.Usuario>
+﻿@model Examen1_LeonardoMadrigal.ViewModels.VehiculosRutasViewModel
+
 
 @{
 
@@ -12,59 +13,51 @@
     <title>Index</title>
 </head>
 <body>
-    <h2>Lista de conductores</h2>
-    <table class="table">
-        <thead>
-            <tr>
-                <th>
-                    @Html.DisplayNameFor(model => model.Username)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Nombre)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Correo)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Telefono)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Password)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Rol)
-                </th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Username)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Nombre)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Correo)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Telefono)
-                    </td>
-                    <td>@(new String('*', item.Password.Length))</td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Rol)
-                    </td>
-                    <td>
-                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
+    <h2>Vehículos</h2>
+    <div class="row">
+        @foreach (var item in Model.Vehiculos)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    @* <img src="/images/placeholder.jpg" alt="Imagen no disponible" class="card-img-top" /> *@
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Placa)</h5>
+                        <p class="card-text">Precio: @Html.DisplayFor(modelItem => item.Modelo)</p>
+                        <p class="card-text">Disponible: @Html.DisplayFor(modelItem => item.Estado)</p>
+                        <td>
+                          
+                            <a asp-controller="Vehiculo" asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                          
+                        </td>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <h2>Rutas</h2>
+    <div class="row">
+        @foreach (var item in Model.Rutas)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    @* <img src="/images/placeholder.jpg" alt="Imagen no disponible" class="card-img-top" /> *@
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Nombre)</h5>
+                        <p class="card-text">Precio: @Html.DisplayFor(modelItem => item.Estado)</p>
+                        <p class="card-text">Disponible: @Html.DisplayFor(modelItem => item.Horarios)</p>
+                        <td>
+
+                            <a asp-controller="Ruta" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            
+                        </td>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    
+
 </body>
 </html>

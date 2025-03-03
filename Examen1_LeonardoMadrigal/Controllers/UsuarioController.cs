@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Examen1_LeonardoMadrigal.Models;
+using Examen1_LeonardoMadrigal.ViewModels;
 
 namespace Examen1_LeonardoMadrigal.Controllers
 {
@@ -155,25 +156,42 @@ namespace Examen1_LeonardoMadrigal.Controllers
         // Metodo para mostrar la vista de administradores
         public async Task<IActionResult> VistaRolAdministrador()
         {
-            // Se filtran por administradores
-            //var administradores = _context.Usuarios.Where(u => u.Rol == "Administrador").ToList();
-            return View(await _context.Usuarios.ToListAsync());
+            var vehiculos = await _context.Vehiculos.Include(v => v.Usuario).ToListAsync();
+            var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
+            var usuarios = await _context.Usuarios.ToListAsync();
+
+            var viewModel = new ObjetosViewModel
+            {
+                Vehiculos = vehiculos,
+                Rutas = rutas,
+                Usuarios = usuarios
+            };
+
+            return View(viewModel);
         }
 
         // Metodo para mostrar la vista de conductores
-        public IActionResult VistaRolConductor()
+        public async Task<IActionResult> VistaRolConductor()
         {
-            // Se filtran por administradores
-            var conductores = _context.Usuarios.Where(u => u.Rol == "Conductor").ToList();
-            return View(conductores);
+            var vehiculos = await _context.Vehiculos.Include(v => v.Usuario).ToListAsync();
+            var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
+
+            var viewModel = new VehiculosRutasViewModel
+            {
+                Vehiculos = vehiculos,
+                Rutas = rutas
+            };
+
+            return View(viewModel);
         }
+        
 
         // Metodo para mostrar la vista de usuarios
-        public IActionResult VistaRolUsuarios()
+        public async Task<IActionResult> VistaRolUsuarios()
         {
             // Se filtran por administradores
-            var usuarios = _context.Usuarios.Where(u => u.Rol == "Usuario").ToList();
-            return View(usuarios);
+            var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
+            return View(rutas); 
         }
     }
 }

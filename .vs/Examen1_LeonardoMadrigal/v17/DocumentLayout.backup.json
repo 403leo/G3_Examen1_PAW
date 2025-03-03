@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Codigos PAW\\G3_Examen1_PAW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\vehiculo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\vehiculo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\usuario\\vistaroladministrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\usuario\\vistaroladministrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|d:\\codigos paw\\g3_examen1_paw\\examen1_leonardomadrigal\\views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8ED1A69-94CC-417B-967E-39CCC2F9EB55}|Examen1_LeonardoMadrigal\\Examen1_LeonardoMadrigal.csproj|solutionrelative:examen1_leonardomadrigal\\views\\vehiculo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -276,26 +292,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Usuario\\Create.cshtml",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\Create.cshtml",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Usuario\\Create.cshtml",
-              "ViewState": "AgIAADgAAAAAAAAAAAAcwEoAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T19:54:29.48Z",
+              "WhenOpened": "2025-03-03T04:29:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RutaController.cs",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\RutaController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:28:23.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\VehiculoController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDoAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:28:19.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAACZAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Vehiculo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T19:26:27.246Z",
+              "WhenOpened": "2025-03-03T04:24:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:15:07.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VistaRolAdministrador.cshtml",
+              "DocumentMoniker": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "RelativeDocumentMoniker": "Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "ToolTip": "D:\\Codigos PAW\\G3_Examen1_PAW\\Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "RelativeToolTip": "Examen1_LeonardoMadrigal\\Views\\Usuario\\VistaRolAdministrador.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T04:14:41.441Z",
               "EditorCaption": ""
             }
           ]
