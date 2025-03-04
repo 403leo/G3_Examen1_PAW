@@ -156,10 +156,11 @@ namespace Examen1_LeonardoMadrigal.Controllers
         // Metodo para mostrar la vista de administradores
         public async Task<IActionResult> VistaRolAdministrador()
         {
+            // Se filtra cada objeto por administradores
             var vehiculos = await _context.Vehiculos.Include(v => v.Usuario).ToListAsync();
             var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
             var usuarios = await _context.Usuarios.ToListAsync();
-            var boletos = await _context.Boletos.Include(b => b.Usuario).Include(b => b.Ruta).ToListAsync(); // 👈 Se agregan los boletos
+            var boletos = await _context.Boletos.Include(b => b.Usuario).Include(b => b.Ruta).ToListAsync();
 
             var viewModel = new ObjetosViewModel
             {
@@ -193,10 +194,17 @@ namespace Examen1_LeonardoMadrigal.Controllers
         // Metodo para mostrar la vista de usuarios
         public async Task<IActionResult> VistaRolUsuarios()
         {
-            // Se filtran por administradores
             var rutas = await _context.Rutas.Include(r => r.Usuario).ToListAsync();
-            return View(rutas);
-          
+            var boletos = await _context.Boletos.Include(b => b.Usuario).Include(b => b.Ruta).ToListAsync(); 
+
+            var viewModel = new RutasBoletosViewModel
+            {
+                Rutas = rutas,
+                Boletos = boletos
+            };
+
+            return View(viewModel);
+
         }
     }
 }

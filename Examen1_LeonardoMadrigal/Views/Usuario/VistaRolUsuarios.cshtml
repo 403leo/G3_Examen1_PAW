@@ -1,4 +1,5 @@
-﻿@model IEnumerable<Examen1_LeonardoMadrigal.Models.Ruta>
+﻿@model Examen1_LeonardoMadrigal.ViewModels.RutasBoletosViewModel
+
 
 @{
 
@@ -15,20 +16,42 @@
 
     <h2>Rutas</h2>
     <div class="row">
-        @foreach (var rutas in Model)
+        @foreach (var item in Model.Rutas)
         {
             <div class="col-md-4">
                 <div class="card mb-4 shadow-sm">
                     @* <img src="/images/placeholder.jpg" alt="Imagen no disponible" class="card-img-top" /> *@
                     <div class="card-body">
-                        <h5 class="card-title">@Html.DisplayFor(modelItem => rutas.Nombre)</h5>
-                        <p class="card-text">Precio: @Html.DisplayFor(modelItem => rutas.Estado)</p>
-                        <p class="card-text">Disponible: @Html.DisplayFor(modelItem => rutas.Horarios)</p>
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Nombre)</h5>
+                        <p class="card-text">Precio: @Html.DisplayFor(modelItem => item.Estado)</p>
+                        <p class="card-text">Disponible: @Html.DisplayFor(modelItem => item.Horarios)</p>
                         <td>
 
-                            <a asp-controller="Ruta" asp-action="Details" asp-route-id="@rutas.Id">Details</a> 
+                            <a asp-controller="Ruta" asp-action="Details" asp-route-id="@item.Id">Details</a>
 
                         </td>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <h2>Boletos Comprados</h2>
+    <a asp-controller="Boleto" asp-action="Index" class="btn btn-primary">
+        Comprar Boleto
+    </a>
+    <div class="row">
+        @foreach (var item in Model.Boletos)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Boleto #@Html.DisplayFor(modelItem => item.Id)</h5>
+                        <p class="card-text">Usuario: @Html.DisplayFor(modelItem => item.Usuario.Nombre)</p>
+                        <p class="card-text">Ruta: @Html.DisplayFor(modelItem => item.Ruta.Nombre)</p>
+                        <p class="card-text">Cantidad: @Html.DisplayFor(modelItem => item.Cantidad)</p>
+                        <p class="card-text">Fecha de Compra: @Html.DisplayFor(modelItem => item.FechaCompra)</p>
+                        <a asp-controller="Boleto" asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Ver Detalles</a>
                     </div>
                 </div>
             </div>
